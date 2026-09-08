@@ -1,0 +1,83 @@
+{
+  "license": {
+    "status": "active",
+    "expiration_date": "2027-01-01",
+    "cloud_backup": true,
+    "current_version": "Salsabil v2.4"
+  },
+  "developer_info": {
+    "title_ar": "معلومات المطور",
+    "developer_name_ar": "عبد الرزاق نوي (Abdelrzak Naoui).",
+    "phone": "0794924368",
+    "telegram": "t.me/AbdelrzakNaouiDev",
+    "footer_note_ar": "دعم مستمر لضمان استقرار وتطور تجارتكم، نحن هنا لخدمتكم."
+  },
+  "connected_devices": {
+    "total_allowed_devices": 8,
+    "enforce_whitelist": false,
+    "whitelist_computers": [
+      {
+        "computer_name": "DESKTOP-1J8BF91",
+        "location_tag": "المطور نظام"
+      },
+      {
+        "computer_name": "DESKTOP-DOUAA1",
+        "location_tag": "دعاء شاشة 1"
+      },
+      {
+        "computer_name": "DESKTOP-RECEPTION",
+        "location_tag": "الاستقبال - شاشة 2"
+      },
+      {
+        "computer_name": "DESKTOP-RESTAURANT",
+        "location_tag": "المطعم والصالة"
+      },
+      {
+        "computer_name": "DESKTOP-CAFE",
+        "location_tag": "المقهى ونقطة البيع"
+      },
+      {
+        "computer_name": "DESKTOP-KITCHEN",
+        "location_tag": "المطبخ - طباعة الطلبات"
+      },
+      {
+        "computer_name": "DESKTOP-ADMIN",
+        "location_tag": "مكتب الإدارة"
+      },
+      {
+        "computer_name": "DESKTOP-STORE",
+        "location_tag": "المخزن والمشتريات"
+      }
+    ]
+  },
+  "activation_keys": [
+    {
+      "key": "SLSB-5D-9X2A-7K4P",
+      "duration_days": 5,
+      "is_enabled": true,
+      "is_used": false,
+      "used_by_computer": ""
+    },
+    {
+      "key": "SLSB-10D-3M8V-6R1W",
+      "duration_days": 10,
+      "is_enabled": true,
+      "is_used": false,
+      "used_by_computer": ""
+    },
+    {
+      "key": "SLSB-20D-5F9Q-2Y7X",
+      "duration_days": 20,
+      "is_enabled": false,
+      "is_used": false,
+      "used_by_computer": ""
+    }
+  ],
+  "system_notifications": {
+    "broadcast_enabled": false,
+    "target": "all", 
+    "type": "warning", 
+    "title": "تنبيه من النظام",
+    "message": "لقد تم تحقق من عمل من نضام عن بعد من خلال مطور ."
+  }
+}
