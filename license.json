@@ -74,10 +74,10 @@
     }
   ],
   "system_notifications": {
-    "broadcast_enabled": true,
+    "broadcast_enabled": false,
     "target": "all", 
     "type": "warning", 
     "title": "تنبيه من النظام",
-    "message": "لقد تم تحقق من عمل من نضام عن بعد من خلال مطور . راه كلش مريقل كاش حاجة عيطلي "
+    "message": "لقد تم تحقق من عمل من نضام عن بعد من خلال مطور . "
   }
 }
